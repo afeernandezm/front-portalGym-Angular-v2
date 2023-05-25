@@ -1,6 +1,9 @@
 *{
 
 }
+.flip-card{
+      border: 0 !important;
+}
 #titulo {
   text-align: center;
   font-weight: bold;
