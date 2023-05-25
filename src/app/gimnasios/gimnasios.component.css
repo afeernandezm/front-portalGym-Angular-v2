@@ -1,6 +1,9 @@
 *{
   font-size: 18px;
 }
+.flip-card{
+      border: 0 !important;
+}
 .spinner {
   display: none;
   width: 40px;
