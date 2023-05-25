@@ -12,7 +12,9 @@
   border-radius: 50%;
   animation: spin 2s linear infinite;
 }
-
+.modal-title{
+  font-size: 20px;
+}
 @keyframes spin {
   0% {
     transform: rotate(0deg);
