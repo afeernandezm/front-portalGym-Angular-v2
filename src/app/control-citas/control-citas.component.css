@@ -4,6 +4,9 @@
 .past-date {
   background-color: #a0a0a0;
 }
+.modal-title{
+  font-size: 20px;
+}
 .spinner {
   display: none;
   width: 40px;
